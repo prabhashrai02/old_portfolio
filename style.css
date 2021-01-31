@@ -523,34 +523,34 @@ button:focus{
 
 /* setting background color */
 .m-blue{
-    color: #2857a4;
+    color: #3a7fee;
 }
 .mb-blue{
-    background-color: #2857a4;
+    background-color: #3c7ee7;
 }
 .mb-orange{
-    background-color: #ff7d04;
+    background-color: #e4a469;
 }
 .mb-green{
-    background-color: rgb(33, 114, 33);
+    background-color: rgb(88, 196, 88);
 }
 .mb-pink{
-    background-color: rgb(226, 19, 164);
+    background-color: rgb(243, 71, 191);
 }
 .mb-pink{
-    background-color: rgb(226, 19, 164);
+    background-color: rgb(233, 61, 181);
 }
 .mb-yellow{
-    background-color: rgb(144, 163, 36);
+    background-color: rgb(205, 230, 68);
 }
 .mb-Red{
-    background-color:red;
+    background-color:rgb(238, 111, 111);
 }
 .mb-grey{
-    background-color:grey;
+    background-color:rgb(175, 166, 166);
 }
 .mb-sahi{
-    background-color: rgb(11, 146, 90);
+    background-color: rgb(165, 235, 206);
 }
 
 
